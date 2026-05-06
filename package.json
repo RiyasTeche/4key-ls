@@ -2,7 +2,7 @@
   "name": "4key_ls",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://RiyasTechHub.github.io/4keyLS",
+  "homepage": "https://RiyasTeche.github.io/4keyLS",
   "type": "module",
   "scripts": {
     "dev": "vite",
