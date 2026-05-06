@@ -17,7 +17,7 @@ function App() {
         <main className="min-h-screen">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/4key_ls" element={<Home />} />
+            <Route path="/4keyLS" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/universities" element={<Universities />} />
             <Route path="/study-abroad" element={<StudyAbroad />} />

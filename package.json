@@ -2,13 +2,13 @@
   "name": "4key_ls",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://RiyasTechHub.github.io/4key_ls",
+  "homepage": "https://RiyasTechHub.github.io/4keyLS",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
