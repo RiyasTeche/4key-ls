@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <main className="min-h-screen">
           <Routes>
-            <Route path="/" element={<Home />} />
+            {/*  <Route path="/" element={<Home />} /> */}
             <Route path="/4key-ls" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/universities" element={<Universities />} />
